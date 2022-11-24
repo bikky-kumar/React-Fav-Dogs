@@ -33,7 +33,7 @@ You may also see any lint errors in the console.
 ### `npm run server`
 
 Runs the json server\
-Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
+Open [http://localhost:4000/favorites](http://localhost:4000/favorites) to view raw JSON data in browser.
 
 
 

@@ -1,0 +1,43 @@
+{
+  "favourites": [
+    {
+      "id": 1,
+      "url": "https://random.dog/e388f78f-1211-4d1d-9aeb-19e1ca957136.jpg"
+    },
+    {
+      "fileSizeBytes": 11476001,
+      "url": "https://random.dog/fea951f8-40ed-4114-8e22-387f3d189f9f.JPG",
+      "id": 3
+    },
+    {
+      "fileSizeBytes": 158750,
+      "url": "https://random.dog/4c1b848d-7aac-4a54-a4c1-de5fe52abfeb.jpg",
+      "id": 4
+    },
+    {
+      "fileSizeBytes": 96088,
+      "url": "https://random.dog/9101ee3d-4686-4a53-8499-36459e5f25af.jpg",
+      "id": 5
+    },
+    {
+      "fileSizeBytes": 77685,
+      "url": "https://random.dog/80a8c758-1ee8-4460-96c6-cb31716a269c.jpg",
+      "id": 6
+    },
+    {
+      "fileSizeBytes": 132937,
+      "url": "https://random.dog/f7ef7d6e-7dbe-4ba4-ab00-e9cf01fe2320.jpg",
+      "id": 7
+    },
+    {
+      "fileSizeBytes": 193397,
+      "url": "https://random.dog/e654dc69-29a4-4eb6-ad2d-2c18e2c67eee.jpg",
+      "id": 8
+    },
+    {
+      "fileSizeBytes": 107020,
+      "url": "https://random.dog/aa8e5e24-5c58-4963-9809-10f4aa695cfc.jpg",
+      "id": 9
+    }
+  ]
+}

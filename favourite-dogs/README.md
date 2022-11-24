@@ -14,7 +14,7 @@ commands:
 ### `npm start`
 
 open another terminal and run
-### ### `npm run server`
+### `npm run server`
 
 
 ## Available Scripts
